@@ -2,8 +2,8 @@
 The code should run with no issues using Python 3 versions. If you don't have a library installed, just use !pip install to install the necessary libraries.
 
 # Important restrictions
-Since I used plotly library in this project and the issue is that github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph.<br>
-So I made a web page for plotly charts. You can access it by clicking <a href="https://dzmitrypihulski.github.io/Stack_Overflow_data_analysis/">HERE</a>.<br> It will of course be comments in the main file of project.
+Since I used plotly library in this project, the issue is that github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph.<br>
+So I made a web page for plotly charts. You can access it by clicking <a href="https://dzmitrypihulski.github.io/Stack_Overflow_data_analysis/">HERE</a>.<br> There will, of course, be comments in the main file of the project.
 
 # Libreries used
 * pandas  
