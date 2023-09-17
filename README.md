@@ -3,7 +3,7 @@ The code should run with no issues using Python 3 versions. If you don't have a 
 
 # Important restrictions
 Since I used plotly library in this project and the issue is that github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph.<br>
-So I made a web page for plotly charts. You can access it by clicking <a href="[https://insights.stackoverflow.com/survey](https://dzmitrypihulski.github.io/Stack_Overflow_data_analysis/](https://dzmitrypihulski.github.io/Stack_Overflow_data_analysis/)">HERE</a>.<br> It will of course be comments in the main file of project.
+So I made a web page for plotly charts. You can access it by clicking <a href="https://dzmitrypihulski.github.io/Stack_Overflow_data_analysis/">HERE</a>.<br> It will of course be comments in the main file of project.
 
 # Libreries used
 * pandas  
